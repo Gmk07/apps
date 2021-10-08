@@ -3,17 +3,17 @@
 	"admob_banner": "",
 	"admob_inter": "",
 
-	"APP_KEY": "",
-	"BANNER_PLACEMENT": "",
-	"INTERSTITIAL_PLACEMENT": "",
+	"APP_KEY": "1165fb095",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"whichAds": 0,
+	"whichAds": 1,
 
 	"MoreApps": "",
-	"PrivacyPolicy": "com/",
+	"PrivacyPolicy": "https://sites.google.com/view/primarkoutlet/accueil",
 
-	"url": "",
-	"title": "",
+	"url": "https://www.primark.com/",
+	"title": "Primark Shop",
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
