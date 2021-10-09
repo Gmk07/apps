@@ -4,17 +4,17 @@
 	"admob_banner": "",
 	"admob_inter": "",
 
-	"APP_KEY": "1165fb095",
+	"APP_KEY": "",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
 	"whichAds": 1,
 
 	"MoreApps": "",
-	"PrivacyPolicy": "https://sites.google.com/view/primarkoutlet/accueil",
+	"PrivacyPolicy": "https://sites.google.com/view/avril-shop/accueil",
 
-	"url": "https://www.primark.com/",
-	"title": "Primark Shop",
+	"url": "https://www.avril.ca/",
+	"title": "Avril Shop",
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
