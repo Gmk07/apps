@@ -1,14 +1,14 @@
 {
-"admob_banner" : "ca-app-pub-394025609996300978111",
-	"admob_inter" : "ca-app-pub-39402560999423173712",
+"admob_banner" : "",
+	"admob_inter" : "",
 
-	"APP_KEY": "fc8ac9",
+	"APP_KEY": "",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
 	"whichAds": 0,
 
-	"MoreApps": "h3116631",
+	"MoreApps": "",
 	"PrivacyPolicy": "com/",
 
 	"popAppLink": "htp",
