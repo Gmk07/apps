@@ -9,7 +9,7 @@
 	"whichAds": 0,
 
 	"MoreApps": "",
-	"PrivacyPolicy": "com/",
+	"PrivacyPolicy": "https://sites.google.com/view/primarkstoreapp/accueil",
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
@@ -20,5 +20,5 @@
 	"BUTTON_NAME_1": "HELLO",
 	"BUTTON_NAME_2": "Site 2",
 
-	"BUTTON_URL": "www.google.com"
+	"BUTTON_URL": "https://www.primark.com/fr"
 }
