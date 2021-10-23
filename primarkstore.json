@@ -1,6 +1,7 @@
 {
-"admob_banner" : "",
-	"admob_inter" : "",
+
+	"admob_banner": "",
+	"admob_inter": "",
 
 	"APP_KEY": "",
 	"BANNER_PLACEMENT": "DefaultBanner",
@@ -11,14 +12,13 @@
 	"MoreApps": "",
 	"PrivacyPolicy": "https://sites.google.com/view/primarkstoreapp/accueil",
 
+	"url": "https://www.primark.com/",
+	"title": "Primark Store",
+
 	"popAppLink": "htp",
 	"popAppName": "Gap",
 	"popAppImage": "h2.png",
 	"popAppPackage": "cp",
-	"popAppIsActive": false,
+	"popAppIsActive": false
 
-	"BUTTON_NAME_1": "HELLO",
-	"BUTTON_NAME_2": "Site 2",
-
-	"BUTTON_URL": "https://www.primark.com/fr"
 }
