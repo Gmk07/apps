@@ -3,7 +3,7 @@
 	"admob_banner": "",
 	"admob_inter": "",
 
-	"APP_KEY": "",
+	"APP_KEY": "1165fb095",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -13,7 +13,7 @@
 	"PrivacyPolicy": "https://sites.google.com/view/primarkstoreapp/accueil",
 
 	"url": "https://www.primark.com/",
-	"title": "Primark Store",
+	"title": "Primark Shop",
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
