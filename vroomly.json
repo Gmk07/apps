@@ -10,10 +10,10 @@
 	"whichAds": 1,
 
 	"MoreApps": "",
-	"PrivacyPolicy": "",
+	"PrivacyPolicy": "https://sites.google.com/view/vroomly/accueil",
 
-	"url": "",
-	"title": "",
+	"url": "https://www.vroomly.com/",
+	"title": "Vroomly Shopping",
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
