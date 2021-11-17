@@ -3,17 +3,17 @@
 	"admob_banner": "",
 	"admob_inter": "",
 
-	"APP_KEY": "11cc8e74d",
+	"APP_KEY": "",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
 	"whichAds": 1,
 
 	"MoreApps": "",
-	"PrivacyPolicy": "https://sites.google.com/view/joefreshshopping/accueil",
+	"PrivacyPolicy": "https://sites.google.com/view/arketshop/accueil",
 
-	"url": "https://www.joefresh.com/ca/",
-	"title": "JoeFresh Shop",
+	"url": "https://www.arket.com/",
+	"title": "Arket Shop",
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
