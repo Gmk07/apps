@@ -3,7 +3,7 @@
 	"admob_banner": "",
 	"admob_inter": "",
 
-	"APP_KEY": "",
+	"APP_KEY": "12b7a024d",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -12,7 +12,7 @@
 	"MoreApps": "",
 	"PrivacyPolicy": "https://sites.google.com/view/oscarapplication/accueil",
 
-	"url": "https://sites.google.com/view/oscarapplication/accueil",
+	"url": "https://www.oscaro.com/",
 	"title": "Oscar Store",
 
 	"popAppLink": "htp",
