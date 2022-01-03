@@ -3,7 +3,7 @@
 	"admob_banner": "",
 	"admob_inter": "",
 
-	"APP_KEY": "12bdf5ce5",
+	"APP_KEY": "",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -12,7 +12,7 @@
 	"MoreApps": "",
 	"PrivacyPolicy": "",
 
-	"url": "https://www.chaussea.com/",
+	"url": "",
 	"title": "chaussea Shop",
 
 	"popAppLink": "htp",
