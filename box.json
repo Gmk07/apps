@@ -3,7 +3,7 @@
 	"admob_banner": "",
 	"admob_inter": "",
 
-	"APP_KEY": "121053b95",
+	"APP_KEY": "",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -12,7 +12,7 @@
 	"MoreApps": "",
 	"PrivacyPolicy": "https://sites.google.com/view/bouxavenueapp/accueil",
 
-	"url": "https://www.bouxavenue.com/",
+	"url": "https://sites.google.com/view/bouxavenueapp/accueil",
 	"title": "Bouxavenue Shop",
 
 	"popAppLink": "htp",
