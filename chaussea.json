@@ -3,17 +3,17 @@
 	"admob_banner": "",
 	"admob_inter": "",
 
-	"APP_KEY": "121053b95",
+	"APP_KEY": "",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
 	"whichAds": 1,
 
 	"MoreApps": "",
-	"PrivacyPolicy": "https://sites.google.com/view/maison123/accueil",
+	"PrivacyPolicy": "",
 
-	"url": "https://www.maison123.com/fr",
-	"title": "Maison123 Shop",
+	"url": "https://www.chaussea.com/",
+	"title": "chaussea Shop",
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
