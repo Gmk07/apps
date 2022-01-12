@@ -1,0 +1,24 @@
+{
+
+	"admob_banner": "",
+	"admob_inter": "",
+
+	"APP_KEY": "",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
+	"whichAds": 1,
+
+	"MoreApps": "",
+	"PrivacyPolicy": "https://sites.google.com/view/prezzyboxapp/accueil",
+
+	"url": "https://sites.google.com/view/prezzyboxapp/accueil",
+	"title": "Prezzybox Shop",
+
+	"popAppLink": "htp",
+	"popAppName": "Gap",
+	"popAppImage": "h2.png",
+	"popAppPackage": "cp",
+	"popAppIsActive": false
+
+}
