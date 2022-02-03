@@ -1,14 +1,14 @@
 
 {
 
-	"admob_banner": "",
-	"admob_inter": "",
+	"admob_banner": "ca-app-pub-2340763425550134/5103943863",
+	"admob_inter": "ca-app-pub-2340763425550134/4912372176",
 
 	"APP_KEY": "132c12521",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"whichAds": 1,
+	"whichAds": 0,
 
 	"MoreApps": "",
 	"PrivacyPolicy": "https://sites.google.com/view/rosssales/accueil",
