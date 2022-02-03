@@ -1,13 +1,13 @@
 {
 
-	"admob_banner": "",
-	"admob_inter": "",
+	"admob_banner": "ca-app-pub-2340763425550134/8262242633",
+	"admob_inter": "ca-app-pub-2340763425550134/7029052015",
 
 	"APP_KEY": "132c27e51",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"whichAds": 1,
+	"whichAds": 0,
 
 	"MoreApps": "",
 	"PrivacyPolicy": "https://sites.google.com/view/tkmaxxshop/accueil",
