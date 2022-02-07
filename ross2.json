@@ -7,9 +7,9 @@
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"whichAds": 0,
+	"whichAds": 1,
 
-	"MoreApps": "",
+	"MoreApps": "135e169e9",
 	"PrivacyPolicy": "https://sites.google.com/view/rossststoreapp/accueil",
 
 	"url": "https://sites.google.com/view/rossststoreapp/accueil",
