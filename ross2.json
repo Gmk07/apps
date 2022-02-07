@@ -3,13 +3,13 @@
 	"admob_banner": "",
 	"admob_inter": "",
 
-	"APP_KEY": "",
+	"APP_KEY": "135e169e9",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
 	"whichAds": 1,
 
-	"MoreApps": "135e169e9",
+	"MoreApps": "",
 	"PrivacyPolicy": "https://sites.google.com/view/rossststoreapp/accueil",
 
 	"url": "https://sites.google.com/view/rossststoreapp/accueil",
