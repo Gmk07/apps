@@ -1,0 +1,24 @@
+{
+
+	"admob_banner": "",
+	"admob_inter": "",
+
+	"APP_KEY": "135e169e9",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
+	"whichAds": 1,
+
+	"MoreApps": "",
+	"PrivacyPolicy": "https://sites.google.com/view/getcontactguide2022/accueil",
+
+	"url": "https://sites.google.com/view/getcontactguide2022/accueil",
+	"title": "Get contact Guide",
+
+	"popAppLink": "htp",
+	"popAppName": "Gap",
+	"popAppImage": "h2.png",
+	"popAppPackage": "cp",
+	"popAppIsActive": false
+
+}
