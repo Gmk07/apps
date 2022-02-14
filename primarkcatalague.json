@@ -1,13 +1,13 @@
 {
 
-	"admob_banner": "ca-app-pub-2340763425550134/4885803088",
-	"admob_inter": "ca-app-pub-2340763425550134/7761240258",
+	"admob_banner": "",
+	"admob_inter": "",
 
 	"APP_KEY": "133f16e71",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"whichAds": 0,
+	"whichAds": 1,
 
 	"MoreApps": "",
 	"PrivacyPolicy": "https://sites.google.com/view/primark-catalogue/accueil",
