@@ -9,7 +9,7 @@
 	"whichAds": 0,
 
 	"MoreApps": "",
-	"PrivacyPolicy": "com/",
+	"PrivacyPolicy": "https://sites.google.com/view/folletosoferta2022/accueil",
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
@@ -17,8 +17,8 @@
 	"popAppPackage": "cp",
 	"popAppIsActive": false,
 
-	"BUTTON_NAME_1": "Sites 1",
-	"BUTTON_NAME_2": "Site 2",
+	"BUTTON_NAME_1": "https://sites.google.com/view/folletosoferta2022/accueil",
+	"BUTTON_NAME_2": "https://sites.google.com/view/folletosoferta2022/accueil",
 
-	"BUTTON_URL": "www.google.com"
+	"BUTTON_URL": "https://sites.google.com/view/folletosoferta2022/accueil"
 }
