@@ -1,13 +1,13 @@
 {
 
-	"admob_banner": "",
-	"admob_inter": "",
+	"admob_banner": "ca-app-pub-8387649159914980/7225169154",
+	"admob_inter": "ca-app-pub-8387649159914980/7112971591",
 
 	"APP_KEY": "1392e2de1",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"whichAds": 1,
+	"whichAds": 0,
 
 	"MoreApps": "",
 	"PrivacyPolicy": "https://sites.google.com/view/primarkshoponline2022/accueil",
