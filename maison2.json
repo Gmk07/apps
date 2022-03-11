@@ -3,17 +3,17 @@
 	"admob_banner": "",
 	"admob_inter": "",
 
-	"APP_KEY": "13dff0e51",
+	"APP_KEY": "",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
 	"whichAds": 1,
 
 	"MoreApps": "",
-	"PrivacyPolicy": "https://sites.google.com/view/wilkoshoppingonline2022/accueil",
+	"PrivacyPolicy": "https://sites.google.com/view/maisonsdumondeshopping2022/accueil",
 
-	"url": "https://sites.google.com/view/wilkoshoppingonline2022/accueil",
-	"title": "Wilko Shopping online",
+	"url": "https://sites.google.com/view/maisonsdumondeshopping2022/accueil",
+	"title": "Maisons du monde Shopping",
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
