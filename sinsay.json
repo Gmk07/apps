@@ -1,0 +1,17 @@
+{
+"admob_banner": "",
+"admob_inter": "",
+"APP_KEY": "1404d6ce9",
+"BANNER_PLACEMENT": "DefaultBanner",
+"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+"whichAds": 1,
+"MoreApps": "",
+"PrivacyPolicy": "https://sites.google.com/view/biglotshopping/accueil",
+"url": "https://www.biglots.com/",
+"title": "Big lot Shopping",
+"popAppLink": "htp",
+"popAppName": "Gap",
+"popAppImage": "h2.png",
+"popAppPackage": "cp",
+"popAppIsActive": false
+}
