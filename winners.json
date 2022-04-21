@@ -1,21 +1,91 @@
 {
-"admob_banner": "",
-"admob_inter": "",
-"APP_KEY": "",
-"BANNER_PLACEMENT": "DefaultBanner",
-"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
-"APPLOVIN_BANNER": "",
-"APPLOVIN_INTERSTITIAL": "",
-"whichAds": 1,
-"popAppLink": "htp",
-"popAppName": "Gap",
-"popAppImage": "h2.png",
-"popAppPackage": "cp",
-"popAppIsActive": false,
-"BUTTON_NAME_1": "Begin Now",
-"BUTTON_NAME_2": "Go Show",
-"URL": "https://www.kay.com/",
-"isAdsActivated1": true,
-"isAdsActivated2": true,
-"isInReview": false,
+	"admob_banner": "ca-app-pub-9540624147356790/8829546787",
+	"admob_inter": "ca-app-pub-9540624147356790/8829832190",
+	"APP_KEY": "14670f8f1",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+	"APPLOVIN_BANNER": "77a9e98624709e57",
+	"APPLOVIN_INTERSTITIAL": "efa4e89b9e54fb60",
+	"whichAds": 2,
+	"popAppLink": "htp",
+	"popAppName": "Gap",
+	"popAppImage": "h2.png",
+	"popAppPackage": "cp",
+	"popAppIsActive": false,
+	"BUTTON_NAME_1": "Begin Now",
+	"BUTTON_NAME_2": "Go Show",
+	"URL": "https://www.kay.com/",
+	"isAdsActivated1": true,
+	"isAdsActivated2": true,
+	"isInReview": false,
+	"categories": [{
+			"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/charms.png",
+			"name": "Charms",
+			"items": [{
+					"name": "Ring",
+					"discount": "10% Off",
+					"price": "45$",
+					"color": "fff000",
+					"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/charms1.png"
+				},
+				{
+					"name": "Ring",
+					"discount": "10% Off",
+					"price": "35$",
+					"color": "fff000",
+					"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/charms2.png"
+				},
+				{
+					"name": "Ring",
+					"discount": "10% Off",
+					"price": "15$",
+					"color": "fff000",
+					"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/charms3.png"
+				},
+				{
+					"name": "Ring",
+					"discount": "10% Off",
+					"price": "55$",
+					"color": "fff000",
+					"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r2.png"
+				},
+				{
+					"name": "Ring",
+					"discount": "10% Off",
+					"price": "60$",
+					"color": "fff000",
+					"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r3.png"
+				},
+				{
+					"name": "Ring",
+					"discount": "10% Off",
+					"price": "47$",
+					"color": "fff000",
+					"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r4.png"
+				},
+				{
+					"name": "Ring",
+					"discount": "10% Off",
+					"price": "22$",
+					"color": "fff000",
+					"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r5.png"
+				},
+				{
+					"name": "Ring",
+					"discount": "10% Off",
+					"price": "13$",
+					"color": "fff000",
+					"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r6.png"
+				},
+				{
+					"name": "Ring",
+					"discount": "10% Off",
+					"price": "12$",
+					"color": "fff000",
+					"imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/apps/main/r7.png"
+				}
+			]
+		}
+
+	]
 }
