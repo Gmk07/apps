@@ -4,8 +4,8 @@
 "APP_KEY": "",
 "BANNER_PLACEMENT": "DefaultBanner",
 "INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
-"APPLOVIN_BANNER": "4489f29417beea70",
-"APPLOVIN_INTERSTITIAL": "c335ac647b4f3bd9",
+"APPLOVIN_BANNER": "82e0d39cd050bd9b",
+"APPLOVIN_INTERSTITIAL": "81195e507679cb05",
 "whichAds": 2,
 "popAppLink": "htp",
 "popAppName": "Gap",
@@ -17,7 +17,7 @@
 "URL": "https://sites.google.com/view/celioshopping2022/home",
 "isAdsActivated1": true,
 "isAdsActivated2": true,
-"isInReview": true,
+"isInReview": false,
 "categories": [
 {
 "imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/charms.png",
