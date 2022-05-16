@@ -4,8 +4,8 @@
 "APP_KEY": "",
 "BANNER_PLACEMENT": "DefaultBanner",
 "INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
-"APPLOVIN_BANNER": "4489f29417beea70",
-"APPLOVIN_INTERSTITIAL": "c335ac647b4f3bd9",
+"APPLOVIN_BANNER": "eb8457cd391c1ecc",
+"APPLOVIN_INTERSTITIAL": "362d09c018250540",
 "whichAds": 2,
 "popAppLink": "htp",
 "popAppName": "Gap",
@@ -17,7 +17,7 @@
 "URL": "https://sites.google.com/view/northfaceshopping2022/home",
 "isAdsActivated1": true,
 "isAdsActivated2": true,
-"isInReview": true,
+"isInReview": false,
 "categories": [
 {
 "imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/charms.png",
