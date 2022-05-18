@@ -4,8 +4,8 @@
 "APP_KEY": "",
 "BANNER_PLACEMENT": "DefaultBanner",
 "INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
-"APPLOVIN_BANNER": "",
-"APPLOVIN_INTERSTITIAL": "",
+"APPLOVIN_BANNER": "1fb9802a60197e7d",
+"APPLOVIN_INTERSTITIAL": "49604f04fafa3796",
 "whichAds": 2,
 "popAppLink": "htp",
 "popAppName": "Gap",
@@ -17,7 +17,7 @@
 "URL": "https://sites.google.com/view/zollashopping2022/home",
 "isAdsActivated1": true,
 "isAdsActivated2": true,
-"isInReview": true,
+"isInReview": false,
 "categories": [
 {
 "imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/charms.png",
