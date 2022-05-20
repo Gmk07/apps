@@ -14,10 +14,10 @@
 "popAppIsActive": false,
 "BUTTON_NAME_1": "Begin Now",
 "BUTTON_NAME_2": "Go Show",
-"URL": "https://sites.google.com/view/croppshopping2022/accueil",
+"URL": "https://www.cropp.com/special/store/",
 "isAdsActivated1": true,
 "isAdsActivated2": true,
-"isInReview": true,
+"isInReview": false,
 "categories": [
 {
 "imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/charms.png",
