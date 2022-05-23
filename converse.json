@@ -4,8 +4,8 @@
 "APP_KEY": "",
 "BANNER_PLACEMENT": "DefaultBanner",
 "INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
-"APPLOVIN_BANNER": "",
-"APPLOVIN_INTERSTITIAL": "",
+"APPLOVIN_BANNER": "c53593fa39e7e2db",
+"APPLOVIN_INTERSTITIAL": "a7d6657e2dca896c",
 "whichAds": 2,
 "popAppLink": "htp",
 "popAppName": "Gap",
@@ -17,7 +17,7 @@
 "URL": "https://sites.google.com/view/converseshosesapp/home",
 "isAdsActivated1": true,
 "isAdsActivated2": true,
-"isInReview": true,
+"isInReview": false,
 "categories": [
 {
 "imageUrl": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/charms.png",
